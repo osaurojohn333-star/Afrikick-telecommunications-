@@ -1,0 +1,6 @@
+{
+  "name": "AfriKick Telecom Sovereign Filter",
+  "description": "Pan-African telecommunications interception and broadcast system that automatically filters European football streams across continental telecom gateways and dynamically reroutes communications to promote African Football leagues and CAF competitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
